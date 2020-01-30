@@ -7,13 +7,30 @@ body {
 }
 
 h3 {
-  color: #000;
+  color: #222;
   padding-left: 20px;
 }
 
 p {
   font-style: italic;
-  background-color: #999;
+  background-color: #888;
   padding-left: 20px;
+  padding-right: 10px;
   font-size: 20px;
+}
+
+div {
+  background-color: #999;
+}
+
+a {
+  color: #333;
+}
+
+.jumbotron {
+  background-color: #AEC3DA;
+}
+
+.nav-item {
+  background-color: #999;
 }
